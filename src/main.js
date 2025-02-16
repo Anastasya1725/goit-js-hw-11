@@ -1,5 +1,5 @@
-import iziToast from 'izitoast'; // Імпортуємо iziToast
-import 'izitoast/dist/css/iziToast.min.css'; // Імпортуємо стилі для iziToast
+import iziToast from 'izitoast';
+import 'izitoast/dist/css/iziToast.min.css';
 import { fetchImages } from './js/pixabay-api.js';
 import { renderGallery, showLoader } from './js/render-functions.js';
 
